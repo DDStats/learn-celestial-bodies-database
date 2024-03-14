@@ -32,3 +32,13 @@ ls --color=auto
 git status
 git add -all
 git add --all
+git status
+ls --color=auto
+git add universe.sql
+git add status
+git status
+git push
+git push
+cd ..
+ls --color=auto
+cd project
